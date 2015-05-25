@@ -7,3 +7,5 @@ Eraikizpi v2 es una impresora 3d stereolitográfica (SLA) que utiliza una resina
 
 Teneis mas información en reprap
 http://reprap.org/wiki/Eraikizpi/es
+
+La licencia de la impresora Eraikizpi es CC BY-NC 4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
